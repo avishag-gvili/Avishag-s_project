@@ -1,1 +1,6 @@
-h1{color: aqua;}
+body{background-color: cornsilk;}
+h1{background-color:chocolate;font-size: 150px;}
+nav{background-color: chartreuse;font-size: 100px;}
+a:hover{color: red;}
+p{font-size: 100px;}
+footer{background-color: chartreuse;}
